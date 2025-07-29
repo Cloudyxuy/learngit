@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 modify by github
 Creating a new branch is quick.
 in master,test for conflict
+i am dev，try push to origin
