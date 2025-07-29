@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 modify by github
 Creating a new branch is quick.
+in master,test for conflict
